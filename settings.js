@@ -98,7 +98,7 @@ global.buttonDefault = [{
 }, {
    quickReplyButton: {
       displayText: '⚡command⚡',
-      id: 'command'
+      id: '.command'
    }
 }]
 global.buttonDefault2 = [{
